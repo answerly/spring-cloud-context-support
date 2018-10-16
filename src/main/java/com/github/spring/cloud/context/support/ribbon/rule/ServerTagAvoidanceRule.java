@@ -1,4 +1,4 @@
-package com.olasharing.commons.context.ribbon.rule;
+package com.github.spring.cloud.context.support.ribbon.rule;
 
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.*;

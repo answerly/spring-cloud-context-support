@@ -1,4 +1,4 @@
-package com.olasharing.commons.context.attachment;
+package com.github.spring.cloud.context.support.attachment;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

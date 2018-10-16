@@ -1,4 +1,4 @@
-package com.olasharing.commons.context.attachment;
+package com.github.spring.cloud.context.support.attachment;
 
 /**
  * 附件常量

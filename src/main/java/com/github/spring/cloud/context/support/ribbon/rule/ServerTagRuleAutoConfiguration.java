@@ -1,5 +1,6 @@
-package com.olasharing.commons.context.ribbon.rule;
+package com.github.spring.cloud.context.support.ribbon.rule;
 
+import com.github.spring.cloud.context.support.ribbon.rule.ServerTagAvoidanceRule;
 import com.netflix.loadbalancer.IRule;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,5 +1,5 @@
 # Auto Configure
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.olasharing.commons.context.attachment.OlaAttachmentAutoConfiguration,\
-com.olasharing.commons.context.ribbon.rule.ServerTagRuleAutoConfiguration,\
-com.olasharing.commons.context.trace.HttpTraceAutoConfiguration
+com.github.spring.cloud.context.support.attachment.OlaAttachmentAutoConfiguration,\
+com.github.spring.cloud.context.support.ribbon.rule.ServerTagRuleAutoConfiguration,\
+com.github.spring.cloud.context.support.trace.HttpTraceAutoConfiguration

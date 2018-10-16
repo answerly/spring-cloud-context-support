@@ -1,4 +1,4 @@
-package com.olasharing.commons.context.ribbon.rule;
+package com.github.spring.cloud.context.support.ribbon.rule;
 
 /**
  * 负载均衡规则常量

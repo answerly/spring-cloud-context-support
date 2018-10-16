@@ -1,7 +1,8 @@
-package com.olasharing.commons.context.trace;
+package com.github.spring.cloud.context.support.trace;
 
 import brave.Span;
 import brave.Tracer;
+import com.github.spring.cloud.context.support.trace.Constants;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 import javax.servlet.FilterChain;
