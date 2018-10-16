@@ -8,6 +8,6 @@ package com.github.spring.cloud.context.support.attachment;
  */
 public class Constants {
 
-    public static final String ATTACHMENT_KEY_PREFIX = "X-OLA-ATT-";
+    public static final String ATTACHMENT_KEY_PREFIX = "X-CLOUD-ATT-";
 
 }

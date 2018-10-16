@@ -8,6 +8,6 @@ package com.github.spring.cloud.context.support.trace;
  */
 public class Constants {
 
-    public static final String RESPONSE_HEADER_TRADE_ID = "X-OLA-TraceId";
+    public static final String RESPONSE_HEADER_TRADE_ID = "X-CLOUD-TraceId";
 
 }

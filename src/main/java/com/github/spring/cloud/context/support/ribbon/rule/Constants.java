@@ -12,7 +12,7 @@ public class Constants {
 
     public static final String EUREKA_METADATA_SERVER_TAG = "serviceTag";
 
-    public static final String ATTACHMENT_KEY_SERVER_TAG = "X-OLA-ATT-SERVER_TAG";
+    public static final String ATTACHMENT_KEY_SERVER_TAG = "X-CLOUD-ATT-SERVER_TAG";
 
 
 }
